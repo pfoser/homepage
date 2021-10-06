@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Dieter Pfoser</title>
-    <link>https://pfoser.github.io/homepage/profile/</link>
+    <link>https://www.dieter.pfoser.org/profile/</link>
     <description>Recent content in Research on Dieter Pfoser</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2021 Dieter Pfoser</copyright><atom:link href="https://pfoser.github.io/homepage/profile/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2021 Dieter Pfoser</copyright><atom:link href="https://www.dieter.pfoser.org/profile/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

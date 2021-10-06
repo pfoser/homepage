@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Dieter Pfoser</title>
-    <link>https://pfoser.github.io/homepage/teaching/</link>
+    <link>https://www.dieter.pfoser.org/teaching/</link>
     <description>Recent content in Teaching on Dieter Pfoser</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pfoser.github.io/homepage/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dieter.pfoser.org/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Urban Analytics</title>
-      <link>https://pfoser.github.io/homepage/teaching/urban_analytics/</link>
+      <link>https://www.dieter.pfoser.org/teaching/urban_analytics/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pfoser.github.io/homepage/teaching/urban_analytics/</guid>
+      <guid>https://www.dieter.pfoser.org/teaching/urban_analytics/</guid>
       <description>&lt;p&gt;This research seminar will investigate different urban spatial problems driven by the current COVID pandemic situation such as the future of transportation and education given the current COVID situation and beyond. The course is based in part on literature on spatial analysis and in part on newly emerging topics in urban analytics. The course aims to offer students tools for integrating spatial information and decision making with planning and design solutions.
 Students will work in teams and will participate in Hackathons and in joint research with Fairfax and Arlington county groups.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Web Mapping</title>
-      <link>https://pfoser.github.io/homepage/teaching/web_mapping/</link>
+      <link>https://www.dieter.pfoser.org/teaching/web_mapping/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pfoser.github.io/homepage/teaching/web_mapping/</guid>
+      <guid>https://www.dieter.pfoser.org/teaching/web_mapping/</guid>
       <description>&lt;p&gt;Managing geospatial data is at the core of an emerging Billion-Dollar industry. This course will provide the students with the knowledge to curate, store, manage and query geospatial data by means of powerful database management systems. Moreover, to communicate the data, the students will learn how to build Web mapping applications on top of a database and so communicate and interact with the data using nothing more than a Web browser. The course will cover a variety of open source software packages for web mapping and will provide pointers to commercial solutions where appropriate.&lt;br&gt;
 The specific goals are (i) to enable students to develop a good understanding of the principles and techniques of spatial databases incl. to perform common various types of queries and spatial analyses and (ii) to design, develop, and implement custom web mapping applications using open standards and open-source software.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Advanced Geographic Information Systems</title>
-      <link>https://pfoser.github.io/homepage/teaching/advanced_gis/</link>
+      <link>https://www.dieter.pfoser.org/teaching/advanced_gis/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pfoser.github.io/homepage/teaching/advanced_gis/</guid>
+      <guid>https://www.dieter.pfoser.org/teaching/advanced_gis/</guid>
       <description>&lt;p&gt;The goal of this course is to enable students to develop a good understanding of emerging new geospatial data sources and also including relevant data models and data management techniques. The studied subjects include Big Data including the Semantic Web and Linked Data, Web APIs and novel data management systems such as NoSQL databases.
 Students will learn how to utilize these new data sources and learn techniques for managing such complex spatial datasets. The specific topics addressed are VGI (crowdsourcing geospatial data sets and user contributed content), linked data (RDF, SPARQL), non-traditional Web data sources (data streams, Web APIs, e.g., Twitter), and novel data management tools (MongoDB). In addition, we will briefly cover relational databases as a contrast to more recent trends.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Data-Driven Storytelling</title>
-      <link>https://pfoser.github.io/homepage/teaching/storytelling/</link>
+      <link>https://www.dieter.pfoser.org/teaching/storytelling/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://pfoser.github.io/homepage/teaching/storytelling/</guid>
+      <guid>https://www.dieter.pfoser.org/teaching/storytelling/</guid>
       <description>&lt;p&gt;&lt;i&gt;&amp;ldquo;Today, the world is awash in unprecedented amounts of data and an expanding network of sources for stories and news. The open question is not whether data, computers, and algorithms can be used for data-driven storytelling, but rather how, when, where, why, and by whom.&amp;rdquo; &lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;Many datasets tell a story, but tools don’t know what the story is. Here it takes a person – and analyst or communicator of information – to bring the story visually and contextually to life. This process is the focus of this course. Hopefully, what you will learn will enable you to shift from simply showing data to storytelling with data.&lt;/p&gt;
 &lt;p&gt;This is a graduate-level advanced course on the concepts and principles of data-driven storytelling, specifically focusing on data management, exploratory data analysis and information visualization, i.e., gathering, cleaning, organizing, analyzing, visualizing, and publishing data in the context of storytelling. The course will take a case study approach in which students explore specific challenges/cases and work towards their own project narrative, e.g., Natural disasters, travel, politics, refugee crisis, terrorism, etc. This course provides students with specific knowledge in computer and information science as related to data management, data analytics and data visualization. As part of this process, students will also obtain general skills like how to find datasets, present their findings in well-prepared PowerPoint presentations, write down their findings in an essay (article), and contribute to and lead focused discussions.&lt;/p&gt;</description>
