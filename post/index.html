@@ -156,20 +156,6 @@ Follow the following steps:
   <p class="text-right"><a href="../post/2014/04/02/getting-started-with-hugo/">Read More…</a></p>
 </article>
 
-      <article itemscope itemtype="http://schema.org/BlogPosting">
-<h2><a href="../post/2014/03/10/migrate-to-hugo-from-jekyll/"><span itemprop="name headline"></span>Migrate to Hugo from Jekyll</span></a></h2>
-<div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2014-03-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">10 March 2014</time><meta itemprop="author" content="Dieter Pfoser"/>
-  </span>
-</div>
-
-  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &lt;root&gt;/ ▾ images/ logo.png  should become
-▾ &lt;root&gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.
-  <p class="text-right"><a href="../post/2014/03/10/migrate-to-hugo-from-jekyll/">Read More…</a></p>
-</article>
-
     <div class="row">
   <div class="column small-12">
     <ul class="pagination" role="navigation" aria-label="Pagination">
@@ -263,6 +249,26 @@ fa-rss-square
 &nbsp; <a href="https://github.com/jonathan-g/jonathangilligan.hugo" target="_blank"><i class="fab fa-github"></i> Source</a>
 </section>
 </footer>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20548057-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
+(function(){var j=function(a,b){return window.getComputedStyle?getComputedStyle(a).getPropertyValue(b):a.currentStyle[b]};var k=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,false);else a.attachEvent('on'+b,c)};var l=function(a,b){for(key in b)if(b.hasOwnProperty(key))a[key]=b[key];return a};window.fitText=function(d,e,f){var g=l({'minFontSize':-1/0,'maxFontSize':1/0},f);var h=function(a){var b=e||1;var c=function(){a.style.fontSize=Math.max(Math.min(a.clientWidth/(b*10),parseFloat(g.maxFontSize)),parseFloat(g.minFontSize))+'px'};c();k(window,'resize',c)};if(d.length)for(var i=0;i<d.length;i++)h(d[i]);else h(d);return d}})();
+fitText(document.getElementById('title'), 1)
+
+</script>
+
     
     </div>
 
