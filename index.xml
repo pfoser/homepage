@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dieter Pfoser</title>
+    <link>https://pfoser.github.io/homepage/</link>
+    <description>Recent content on Dieter Pfoser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pfoser.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NSF: Data-Driven Modeling to Improve Understanding of Human Behavior, Mobility, and Disease Spread</title>
+      <link>https://pfoser.github.io/homepage/projects/nsf_21-26_eeid-copy/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/nsf_21-26_eeid-copy/</guid>
+      <description>&lt;p&gt;Summary: The goal of this project is to investigate how including spatiotemporal heterogeneity of human behavior and mobility in ABMs of disease spread will 1) better explain variations of human response to disease spread, 2) improve predictions of infectious disease spread, and 3) prescribe the most effective mitigation policies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NSF: III: Small: From Spatial Language to Spatial Data - a simulation-based approach</title>
+      <link>https://pfoser.github.io/homepage/projects/nsf_21-24_spatial_language/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/nsf_21-24_spatial_language/</guid>
+      <description>&lt;p&gt;Summary: Devising means to better understand people&amp;rsquo;s perception of space by deciphering such spatial language terms. This includes (i) developing a simulation to crowdsource geospatial language expression data by having users interact in a virtual environment and (ii) exploring neural language modeling approaches for the problem of grounding language to this spatial context.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distributed Semi-Supervised Temporal Learning for Global Change Monitoring (DiSSTL)</title>
+      <link>https://pfoser.github.io/homepage/projects/iarpa_21-22/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/iarpa_21-22/</guid>
+      <description>&lt;p&gt;IARPA’s Space-based Machine Automated Recognition Technique (SMART) Program strives to automate the quantitative analysis of space-based imagery to perform broad-area search for natural and anthropogenic events and characterize their extent and progression in time and space by fusing very large data from multiple satellite sensors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Urban Analytics</title>
+      <link>https://pfoser.github.io/homepage/teaching/urban_analytics/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/teaching/urban_analytics/</guid>
+      <description>&lt;p&gt;This research seminar will investigate different urban spatial problems driven by the current COVID pandemic situation such as the future of transportation and education given the current COVID situation and beyond. The course is based in part on literature on spatial analysis and in part on newly emerging topics in urban analytics. The course aims to offer students tools for integrating spatial information and decision making with planning and design solutions.
+Students will work in teams and will participate in Hackathons and in joint research with Fairfax and Arlington county groups.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Disentangled dynamic graph deep generation</title>
+      <link>https://pfoser.github.io/homepage/publications/zhang2021disentangled/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/zhang2021disentangled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining high resolution earth observation data cubes</title>
+      <link>https://pfoser.github.io/homepage/publications/zuefle2021mining/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/zuefle2021mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement-aware map construction</title>
+      <link>https://pfoser.github.io/homepage/publications/lyu2021movement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/lyu2021movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TG-gan: Continuous-time temporal graph deep generative models with time-validity constraints</title>
+      <link>https://pfoser.github.io/homepage/publications/zhang2021tg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/zhang2021tg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Mapping</title>
+      <link>https://pfoser.github.io/homepage/teaching/web_mapping/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/teaching/web_mapping/</guid>
+      <description>&lt;p&gt;Managing geospatial data is at the core of an emerging Billion-Dollar industry. This course will provide the students with the knowledge to curate, store, manage and query geospatial data by means of powerful database management systems. Moreover, to communicate the data, the students will learn how to build Web mapping applications on top of a database and so communicate and interact with the data using nothing more than a Web browser. The course will cover a variety of open source software packages for web mapping and will provide pointers to commercial solutions where appropriate.&lt;br&gt;
+The specific goals are (i) to enable students to develop a good understanding of the principles and techniques of spatial databases incl. to perform common various types of queries and spatial analyses and (ii) to design, develop, and implement custom web mapping applications using open standards and open-source software.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Location-based social network data generation based on patterns of life</title>
+      <link>https://pfoser.github.io/homepage/publications/kim2020pol/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kim2020pol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-based social simulation for prescriptive analytics of disease spread</title>
+      <link>https://pfoser.github.io/homepage/publications/kim2020location/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kim2020location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing uncertainty in evolving geo-spatial data</title>
+      <link>https://pfoser.github.io/homepage/publications/zufle2020managing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/zufle2020managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Station-to-user transfer learning: Towards explainable user clustering through latent trip signatures using tidal-regularized non-negative matrix factorization</title>
+      <link>https://pfoser.github.io/homepage/publications/zhang2020station/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/zhang2020station/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking the pulse of covid-19: A spatiotemporal perspective</title>
+      <link>https://pfoser.github.io/homepage/publications/yang2020taking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/yang2020taking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic flow estimation using probe vehicle data</title>
+      <link>https://pfoser.github.io/homepage/publications/gkountouna2020traffic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/gkountouna2020traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle relocation for ride-hailing</title>
+      <link>https://pfoser.github.io/homepage/publications/kim2020vehicle/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kim2020vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guaranteeing the Where – Towards Authoritative Cryptographic Geospatial Computing</title>
+      <link>https://pfoser.github.io/homepage/projects/gmu_19-21_crypto/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/gmu_19-21_crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Geographic Information Systems</title>
+      <link>https://pfoser.github.io/homepage/teaching/advanced_gis/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/teaching/advanced_gis/</guid>
+      <description>&lt;p&gt;The goal of this course is to enable students to develop a good understanding of emerging new geospatial data sources and also including relevant data models and data management techniques. The studied subjects include Big Data including the Semantic Web and Linked Data, Web APIs and novel data management systems such as NoSQL databases.
+Students will learn how to utilize these new data sources and learn techniques for managing such complex spatial datasets. The specific topics addressed are VGI (crowdsourcing geospatial data sets and user contributed content), linked data (RDF, SPARQL), non-traditional Web data sources (data streams, Web APIs, e.g., Twitter), and novel data management tools (MongoDB). In addition, we will briefly cover relational databases as a contrast to more recent trends.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A vocabulary recommendation method for spatiotemporal data discovery based on bayesian network and ontologies</title>
+      <link>https://pfoser.github.io/homepage/publications/kejin2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kejin2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrowdZIP: A system to improve reverse zip code geocoding using spatial and crowdsourced data (demo paper)</title>
+      <link>https://pfoser.github.io/homepage/publications/khan2019crowdzip/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/khan2019crowdzip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance-aware competitive spatiotemporal searching using spatiotemporal resource matrix factorization (gis cup)</title>
+      <link>https://pfoser.github.io/homepage/publications/kim2019distance/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kim2019distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation design: The structural elements of knowledge-seeking efforts</title>
+      <link>https://pfoser.github.io/homepage/publications/weaver2019investigation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/weaver2019investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-based social simulation</title>
+      <link>https://pfoser.github.io/homepage/publications/kavak2019location/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kavak2019location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortest-path diversification through network penalization: A washington dc area case study</title>
+      <link>https://pfoser.github.io/homepage/publications/cheng2019shortest/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/cheng2019shortest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating urban patterns of life: A geo-social data generation framework</title>
+      <link>https://pfoser.github.io/homepage/publications/kim2019simulating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/kim2019simulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal bus route profiling using odometer data</title>
+      <link>https://pfoser.github.io/homepage/publications/fei2019spatiotemporal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/fei2019spatiotemporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using openstreetmap point-of-interest data to model urban change—a feasibility study</title>
+      <link>https://pfoser.github.io/homepage/publications/liming2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/liming2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A ground‐truth simulator for socio‐spatial alternate worlds</title>
+      <link>https://pfoser.github.io/homepage/projects/darpa_18-20/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/darpa_18-20/</guid>
+      <description>&lt;p&gt;Summary: Test and evaluating different methods and tools for analyzing complex social phenomena.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cancer and social media: A comparison of traffic about breast cancer, prostate cancer, and other reproductive cancers on twitter and instagram</title>
+      <link>https://pfoser.github.io/homepage/publications/vraga2018cancer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/vraga2018cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality assessment and accessibility mapping in an image-based geocrowdsourcing testbed</title>
+      <link>https://pfoser.github.io/homepage/publications/rice2018quality/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/rice2018quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-textual user matching and clustering based on set similarity joins</title>
+      <link>https://pfoser.github.io/homepage/publications/belesiotis2018spatio/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/belesiotis2018spatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal traffic volume estimation model based on gps samples</title>
+      <link>https://pfoser.github.io/homepage/publications/snowdon2018spatiotemporal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/snowdon2018spatiotemporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a better understanding of public transportation traffic: A case study of the washington, dc metro</title>
+      <link>https://pfoser.github.io/homepage/publications/truong2018urban/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/truong2018urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIVES: Discovering Indicators for Interactions in Finance and Government Sector</title>
+      <link>https://pfoser.github.io/homepage/projects/gmu_17-18_dives/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/gmu_17-18_dives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Storytelling</title>
+      <link>https://pfoser.github.io/homepage/teaching/storytelling/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/teaching/storytelling/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&amp;ldquo;Today, the world is awash in unprecedented amounts of data and an expanding network of sources for stories and news. The open question is not whether data, computers, and algorithms can be used for data-driven storytelling, but rather how, when, where, why, and by whom.&amp;rdquo; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Many datasets tell a story, but tools don’t know what the story is. Here it takes a person – and analyst or communicator of information – to bring the story visually and contextually to life. This process is the focus of this course. Hopefully, what you will learn will enable you to shift from simply showing data to storytelling with data.&lt;/p&gt;
+&lt;p&gt;This is a graduate-level advanced course on the concepts and principles of data-driven storytelling, specifically focusing on data management, exploratory data analysis and information visualization, i.e., gathering, cleaning, organizing, analyzing, visualizing, and publishing data in the context of storytelling. The course will take a case study approach in which students explore specific challenges/cases and work towards their own project narrative, e.g., Natural disasters, travel, politics, refugee crisis, terrorism, etc. This course provides students with specific knowledge in computer and information science as related to data management, data analytics and data visualization. As part of this process, students will also obtain general skills like how to find datasets, present their findings in well-prepared PowerPoint presentations, write down their findings in an essay (article), and contribute to and lead focused discussions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A layered approach for more robust generation of road network maps from vehicle tracking data</title>
+      <link>https://pfoser.github.io/homepage/publications/karagiorgou2017layered/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/karagiorgou2017layered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework to predict movement</title>
+      <link>https://pfoser.github.io/homepage/publications/gkountouna2017unified/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/gkountouna2017unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing turning-restrictions from map-matched trajectories</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis2017crowdsourcing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis2017crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling uncertainty in geo-spatial data</title>
+      <link>https://pfoser.github.io/homepage/publications/zufle2017handling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/zufle2017handling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hub labels on the database for large-scale graphs with the cold framework</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis2017hub/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis2017hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge extraction from crowdsourced data for the enrichment of road networks</title>
+      <link>https://pfoser.github.io/homepage/publications/josse2017skoumas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/josse2017skoumas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the evolution of narratives in social media</title>
+      <link>https://pfoser.github.io/homepage/publications/schmid2017predicting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/schmid2017predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media engagement with cancer awareness campaigns declined during the 2016 us presidential election</title>
+      <link>https://pfoser.github.io/homepage/publications/vraga2017social/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/vraga2017social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zika in twitter: Temporal variations of locations, actors, and concepts</title>
+      <link>https://pfoser.github.io/homepage/publications/stefanidis2017zika/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/stefanidis2017zika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSF/AITF: Collaborative Research: Modeling Movement on Transportation Networks Using Uncertain Data</title>
+      <link>https://pfoser.github.io/homepage/projects/nsf_16-22_mobility/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/nsf_16-22_mobility/</guid>
+      <description>&lt;p&gt;Summary: Creation a unified framework for aggregating and analyzing diverse and uncertain movement data on transportation networks and to provide tools for querying and predicting traffic volume and movement in urban environments.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
+      <link>https://pfoser.github.io/homepage/post/2016/04/20/writing-content-with-markdown-latex-and-shortcodes/</link>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/post/2016/04/20/writing-content-with-markdown-latex-and-shortcodes/</guid>
+      <description>Content can be written using Markdown, LaTeX math, and Hugo Shortcodes. Additionally, HTML may be used for advanced formatting.
+Sub-headings ## H2 ### H3 #### H4 ##### H5 ###### H6  Emphasis Italics with *asterisks* or _underscores_. Bold with **asterisks** or __underscores__. Combined emphasis with **asterisks and _underscores_**. Strikethrough with ~~two tildes~~.  Ordered lists 1. First item 2. Another item  Unordered lists * First item * Another item  Images Images may be added to a page by placing them in your static/img/ folder and referencing them using one of the following two notations:</description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing geographic information.</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_eodb2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_eodb2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing turning-restrictions from map-matched trajectories</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis_mud_is2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis_mud_is2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient processing of relevant nearest-neighbor queries</title>
+      <link>https://pfoser.github.io/homepage/publications/efstathiades_tsas2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efstathiades_tsas2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geo-fingerprinting social media content</title>
+      <link>https://pfoser.github.io/homepage/publications/gazaz16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/gazaz16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location estimation using crowdsourced spatial relations</title>
+      <link>https://pfoser.github.io/homepage/publications/skoumas_tsas2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/skoumas_tsas2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReHub: Extending hub labels for reverse k-nearest neighbor queries on large-scale networks</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis2016rehub/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis2016rehub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity search on spatio-textual point sets</title>
+      <link>https://pfoser.github.io/homepage/publications/efstathiades16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efstathiades16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Narratives: A Multidisciplinary Approach to Understanding Health-Related Information Generation and Dissemination in Social Media</title>
+      <link>https://pfoser.github.io/homepage/projects/gmu_15-16_health/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/gmu_15-16_health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Mapping Platform Visualizing Risk Assessment</title>
+      <link>https://pfoser.github.io/homepage/projects/dhs_15/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/dhs_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison and evaluation of map construction algorithms using vehicle tracking data</title>
+      <link>https://pfoser.github.io/homepage/publications/ahmad2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/ahmad2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLD. Revisiting hub labels on the database for large-scale graphs</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis2015b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing urban form and function</title>
+      <link>https://pfoser.github.io/homepage/publications/crooks2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/crooks2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-enriched route computation</title>
+      <link>https://pfoser.github.io/homepage/publications/skoumas2015a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/skoumas2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map construction algorithms</title>
+      <link>https://pfoser.github.io/homepage/publications/mcbook2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/mcbook2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReHub. Extending hub labels for reverse k-nearest neighbor queries on large-scale networks</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis_rehub_jea2016/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis_rehub_jea2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SALT. A unified framework for all shortest-path query variants on road networks</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal behavior profiling: A treasure hunt case study</title>
+      <link>https://pfoser.github.io/homepage/publications/degraff2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/degraff2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tourismo: A user-preference tourist trip search engine</title>
+      <link>https://pfoser.github.io/homepage/publications/skoumas2015b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/skoumas2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://pfoser.github.io/homepage/post/2014/09/28/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/post/2014/09/28/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Generation and Management of Crowdsourced Place Gazetteers</title>
+      <link>https://pfoser.github.io/homepage/projects/nga_2015-22/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/nga_2015-22/</guid>
+      <description>&lt;p&gt;Summary: Traditional gazetteers and maps are artifacts of a geometry-driven view of the world, communicating primarily locations and their coordinates. Human activities may assign multiple meanings to the same geographic location. The activities associated with a space transform it to a sociocultural place, by assigning to it meaning, scope, and function, that far exceed its geometric coordinates. Understanding and mapping places is a key geospatial research challenge, as we are transitioning from mapping the surface of the world to monitoring and assessing geo-located activities.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://pfoser.github.io/homepage/post/2014/04/02/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/post/2014/04/02/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://pfoser.github.io/homepage/post/2014/04/02/getting-started-with-hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/post/2014/04/02/getting-started-with-hugo/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://pfoser.github.io/homepage/post/2014/03/10/migrate-to-hugo-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/post/2014/03/10/migrate-to-hugo-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing turning restrictions for openstreetmap</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis14a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis14a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction, integration and analysis of crowdsourced points of interest from multiple web sources</title>
+      <link>https://pfoser.github.io/homepage/publications/lampr2014a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/lampr2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extraction, integration and exploration of crowdsourced geospatial content from multiple web sources (demo)</title>
+      <link>https://pfoser.github.io/homepage/publications/lampr2014b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/lampr2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEOCROWD 2013 workshop report: The second int’l workshop on crowdsourced and volunteered geographic information 2013: (Orlando, fl - nov. 5, 2013)</title>
+      <link>https://pfoser.github.io/homepage/publications/geocrowd_report2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/geocrowd_report2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geosemantic network-of-interest construction using social media data</title>
+      <link>https://pfoser.github.io/homepage/publications/karagior14a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/karagior14a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRASP. Extending graph separators for the single-source shortest-path problem</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis14b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis14b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 13th international symposium on web and wireless geographical information systems</title>
+      <link>https://pfoser.github.io/homepage/publications/w2gis2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/w2gis2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards knowledge-enriched path computation</title>
+      <link>https://pfoser.github.io/homepage/publications/skoumas2014a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/skoumas2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEOSTREAM - Exploiting User-Generated Geospatial Content Streams</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_13-15_geocrowd/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_13-15_geocrowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest editorial: Spatial and temporal databases</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isochrones, traffic and demographics</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis13a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis13a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On quantifying qualitative geospatial data: A probabilistic approach</title>
+      <link>https://pfoser.github.io/homepage/publications/skoumas2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/skoumas2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing landmark-based routing and preprocessing</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis13c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis13c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation-based road network construction</title>
+      <link>https://pfoser.github.io/homepage/publications/karagiorgou13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/karagiorgou13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a flexible and scalable fleet management service</title>
+      <link>https://pfoser.github.io/homepage/publications/efentakis13b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efentakis13b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-contributed relevance and nearest neighbor queries</title>
+      <link>https://pfoser.github.io/homepage/publications/efstathiades13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/efstathiades13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIMPLEFLEET - Description: Democratizing Fleet Management Solutions</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_12-14_simplefleet/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_12-14_simplefleet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TMGuide - TALOS Mobile Guides</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_12-14_tmguide/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_12-14_tmguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative geospatial feature search</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_2012a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_2012a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing computing resources for shortest-path computation</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_2012c/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_2012c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On vehicle tracking data-based road network generation</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_2012b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_2012b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the first acm sigspatial international workshop on crowdsourced and volunteered geographic information (geocrowd)</title>
+      <link>https://pfoser.github.io/homepage/publications/goodchild_2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/goodchild_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12th international symposium on advances in spatial and temporal databases</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_sstdproc11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_sstdproc11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient data management in support of shortest-path computation</title>
+      <link>https://pfoser.github.io/homepage/publications/aef11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/aef11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeocrowd: Collaborative searching of user-generated point datasets</title>
+      <link>https://pfoser.github.io/homepage/publications/glamp11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/glamp11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile task computing: Beyond location-based services and ebooks</title>
+      <link>https://pfoser.github.io/homepage/publications/liagouris_tasks11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/liagouris_tasks11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On user-generated geocontent</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_vision11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_vision11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion mapping travelblogs</title>
+      <link>https://pfoser.github.io/homepage/publications/drymonas11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/drymonas11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GECROWD - Creating a geospatial knowledge world.  </title>
+      <link>https://pfoser.github.io/homepage/projects/eu_10-14_geocrowd/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_10-14_geocrowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative information spaces: Research directions at imis</title>
+      <link>https://pfoser.github.io/homepage/publications/imis10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/imis10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoblogging: User-contributed geospatial data collection and fusion</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_geoblogging10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_geoblogging10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geospatial route extraction from texts</title>
+      <link>https://pfoser.github.io/homepage/publications/drymonas10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/drymonas10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-independent access to history textbooks: Utilizing gis functionality with spatiotemporal and thematic metadata</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_togis10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_togis10/</guid>
+      <description>Integrating and accessing structured textual content obtain from different sources is a challenging task and becomes even more so when dealing with multiple languages. The objective of this work is to showcase the technological efforts towards the creation of a digital European history textbook repository that integrates respective textbooks from various countries and publishers. The content integration is achieved by introducing language independent metadata based on space (locations), time (dates), and thematic categories (history gazetteer).</description>
+    </item>
+    
+    <item>
+      <title>A new perspective on efficient and dependable vehicle routing</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_routing09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_routing09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing universal access to history textbooks: A modified gis case</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_w2gis09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_w2gis09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing wireless positioning as a tracking data source</title>
+      <link>https://pfoser.github.io/homepage/publications/spiros09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/spiros09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TALOS - Task aware location-based services for mobile environments.  </title>
+      <link>https://pfoser.github.io/homepage/projects/eu_08-10_talos/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_08-10_talos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic travel time maps</title>
+      <link>https://pfoser.github.io/homepage/publications/dttm08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/dttm08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic travel time provision for road networks</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_tnt08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_tnt08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floating car data</title>
+      <link>https://pfoser.github.io/homepage/publications/fcd08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/fcd08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map-matching</title>
+      <link>https://pfoser.github.io/homepage/publications/mm08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/mm08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative geocoding of persistent web pages</title>
+      <link>https://pfoser.github.io/homepage/publications/angel08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/angel08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial data management aspects in archaeological excavation documentation</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_arch07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_arch07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CITER - Creation of a European History Textbook Repository.</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_06-09_citer/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_06-09_citer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRACK&amp;TRADE - Building a data mart for floating car data.</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_06-08_tt/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_06-08_tt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing the need for map-matching speed: Localizing globalb curve-matching algorithms</title>
+      <link>https://pfoser.github.io/homepage/publications/wenk_mm06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/wenk_mm06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic travel time maps - enabling efficient navigation</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_dttm06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_dttm06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to the special issue</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_geoinf06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_geoinf06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data semantics in location-based services</title>
+      <link>https://pfoser.github.io/homepage/publications/tryfona_semantics05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/tryfona_semantics05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indeterminacy and spatiotemporal data: Basic definitions and case study</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_indet05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_indet05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On map-matching vehicle tracking data</title>
+      <link>https://pfoser.github.io/homepage/publications/brakatsoulas_vldb05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/brakatsoulas_vldb05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical data management techniques for vehicle tracking data</title>
+      <link>https://pfoser.github.io/homepage/publications/brakatsoulas_icde05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/brakatsoulas_icde05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory indexing using movement constraints</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_constraints05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_constraints05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARCHAIORAMA - Development of a GIS system for archaeological excavation documentation.</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_04-05_arch/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_04-05_arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12th acm international workshop on geographic information systems</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_gis04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_gis04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling, storing, and mining moving object databases</title>
+      <link>https://pfoser.github.io/homepage/publications/brakatsoulas04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/brakatsoulas04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access methods and query processing techniques</title>
+      <link>https://pfoser.github.io/homepage/publications/cc03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/cc03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBGlobe: A service-oriented p2p system for global computing</title>
+      <link>https://pfoser.github.io/homepage/publications/dbglobe03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/dbglobe03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating semantics-based trajectories of moving objects</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_ceus03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_ceus03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indexing of network constrained moving objects</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_constraints03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_constraints03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services-based data management in a global computing environment</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_wisew03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_wisew03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic and real spatiotemporal datasets</title>
+      <link>https://pfoser.github.io/homepage/publications/nascimento_debull03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/nascimento_debull03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBGLOBE - A Data - centric Approach to Global Computing.</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_02-06_dbglobe/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_02-06_dbglobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PATHFINDER - Development of data management and data mining techniques for floating car data (FCD).</title>
+      <link>https://pfoser.github.io/homepage/projects/eu_02-04_ichn/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/projects/eu_02-04_ichn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indexing the trajectories of moving objects</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_debull02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_debull02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadata modeling in a global computing environment</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_metadata02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_metadata02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting r-tree construction principles</title>
+      <link>https://pfoser.github.io/homepage/publications/brakatsoulas_rtree02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/brakatsoulas_rtree02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing fuzziness and uncertainty of spatiotemporal objects</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_fuzziness01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_fuzziness01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing ontologies for moving objects applications</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_onto01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_onto01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Location-based services: A database perspective</title>
+      <link>https://pfoser.github.io/homepage/publications/jensen_lbs01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/jensen_lbs01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Querying the trajectories of on-line mobile objects</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_traj01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_traj01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel approaches in query processing for moving object trajectories</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_tbtree00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_tbtree00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing the uncertainty of moving-object representations</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_ssd99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_ssd99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental join of time-oriented data</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_temporal99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_temporal99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements, definitions, and notations for spatiotemporal application environments</title>
+      <link>https://pfoser.github.io/homepage/publications/pfoser_requirements98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/pfoser_requirements98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling behavior of geographic objects: An experience with the object modeling technique</title>
+      <link>https://pfoser.github.io/homepage/publications/tryfona_caise97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/tryfona_caise97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structuring space with image schemata: Wayfinding in airports as a case study</title>
+      <link>https://pfoser.github.io/homepage/publications/raubal_cosit97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/publications/raubal_cosit97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Weaver</title>
+      <link>https://pfoser.github.io/homepage/team/bryan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/bryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Cheng</title>
+      <link>https://pfoser.github.io/homepage/team/dan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/dan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dieter Pfoser</title>
+      <link>https://pfoser.github.io/homepage/team/pfoser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/pfoser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Charli Lacagnia</title>
+      <link>https://pfoser.github.io/homepage/team/charlie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/charlie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haiyang Lyu</title>
+      <link>https://pfoser.github.io/homepage/team/haiyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/haiyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamdi Kavak</title>
+      <link>https://pfoser.github.io/homepage/team/hamdi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/hamdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joon-Seok Kim</title>
+      <link>https://pfoser.github.io/homepage/team/joon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/joon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kejin Cui</title>
+      <link>https://pfoser.github.io/homepage/team/kejin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/kejin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liming Zhang</title>
+      <link>https://pfoser.github.io/homepage/team/liming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/liming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengfei Xin</title>
+      <link>https://pfoser.github.io/homepage/team/mengei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/mengei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olga Gkountouna</title>
+      <link>https://pfoser.github.io/homepage/team/olga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/olga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiyang Ruan</title>
+      <link>https://pfoser.github.io/homepage/team/shiyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/shiyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangqiang Min</title>
+      <link>https://pfoser.github.io/homepage/team/min/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfoser.github.io/homepage/team/min/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
