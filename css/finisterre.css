@@ -137,7 +137,7 @@ p+p {
  }
 
 button {
-  font-family: 'ff-tisa-web-pro', Georgia, 'Times New Roman', Times, Serif;
+  font-family: Georgia, 'Times New Roman', Times, Serif;
 }
 
 .row {
@@ -149,7 +149,7 @@ button {
 
 
  .nav-bar {
-     font-family: 'ff-meta-serif-web-pro', 'Trebuchet MS', 'Helvetica Neue', Tahoma;
+     font-family: 'Trebuchet MS', 'Helvetica Neue', Tahoma;
      text-transform: capitalize;
      font-variant: small-caps;
      font-style: normal;
