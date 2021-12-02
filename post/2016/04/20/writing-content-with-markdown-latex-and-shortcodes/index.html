@@ -156,9 +156,9 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 ```
 </code></pre>
 <p>Result:</p>
-<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Example of code highlighting</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Example of code highlighting</span>
 <span class="n">input_string_var</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Enter some data: &#34;</span><span class="p">)</span>
-<span class="k">print</span><span class="p">(</span><span class="s2">&#34;You entered: {}&#34;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">input_string_var</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&#34;You entered: </span><span class="si">{}</span><span class="s2">&#34;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">input_string_var</span><span class="p">))</span>
 </code></pre></div><h2 id="twitter-tweet">Twitter tweet</h2>
 <p>To include a single tweet, pass the tweet’s ID from the tweet&rsquo;s URL as parameter to the shortcode:</p>
 <pre><code>{{&lt; tweet 666616452582129664 &gt;}}
@@ -176,7 +176,7 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 <pre><code>{{&lt; speakerdeck 4e8126e72d853c0060001f97 &gt;}}
 </code></pre>
 <h2 id="rm-latex-math">$\rm \LaTeX$ math</h2>
-<div class="highlight"><pre class="chroma"><code class="language-TeX" data-lang="TeX"><span class="sb">$$</span><span class="nv">\left</span><span class="nb"> </span><span class="o">[</span><span class="nb"> – </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\hbar</span><span class="nb">^</span><span class="m">2</span><span class="nb">}{</span><span class="m">2</span><span class="nb"> m} </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">^</span><span class="m">2</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> x^</span><span class="m">2</span><span class="nb">} </span><span class="o">+</span><span class="nb"> V </span><span class="nv">\right</span><span class="nb"> </span><span class="o">]</span><span class="nb"> </span><span class="nv">\Psi</span><span class="nb"> </span><span class="o">=</span><span class="nb"> i </span><span class="nv">\hbar</span><span class="nb"> </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> t} </span><span class="nv">\Psi</span><span class="s">$$</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-TeX" data-lang="TeX"><span class="sb">$$</span><span class="nv">\left</span><span class="nb"> </span><span class="o">[</span><span class="nb"> – </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\hbar</span><span class="nb">^</span><span class="m">2</span><span class="nb">}{</span><span class="m">2</span><span class="nb"> m} </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">^</span><span class="m">2</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> x^</span><span class="m">2</span><span class="nb">} </span><span class="o">+</span><span class="nb"> V </span><span class="nv">\right</span><span class="nb"> </span><span class="o">]</span><span class="nb"> </span><span class="nv">\Psi</span><span class="nb"> </span><span class="o">=</span><span class="nb"> i </span><span class="nv">\hbar</span><span class="nb"> </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> t} </span><span class="nv">\Psi</span><span class="s">$$</span>
 </code></pre></div><p>$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$</p>
 <p>Alternatively, inline math can be written by wrapping the formula with only a single <code>$</code>:</p>
 <pre><code>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$
@@ -184,7 +184,7 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 <p>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$</p>
 <h2 id="table">Table</h2>
 <p>Code:</p>
-<div class="highlight"><pre class="chroma"><code class="language-Markdown" data-lang="Markdown">| Command           | Description                    |
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Markdown" data-lang="Markdown">| Command           | Description                    |
 | ------------------| ------------------------------ |
 | <span class="sb">`hugo`</span>            | Build your website.            |
 | <span class="sb">`hugo serve -w`</span>   | View your website.             |
