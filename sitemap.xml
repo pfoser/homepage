@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.dieter.pfoser.org/post/2021/12/02/amazon-scholar/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.dieter.pfoser.org/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/post/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid-copy/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
@@ -30,9 +36,6 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/publications/lyu2021movement/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.dieter.pfoser.org/post/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/publications/</loc>

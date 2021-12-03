@@ -1,7 +1,7 @@
 <!doctype html><html class="no-js" lang="en-US" itemscope itemtype="http://schema.org/WebSite" id="website">
   <head>
     <meta charset="utf-8">
-    <title>Writing content with Markdown, LaTeX, and Shortcodes | Dieter Pfoser</title>
+    <title>Amazon Scholar | Dieter Pfoser</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta itemprop="about" itemscope itemtype="http://schema.org/Person" itemref="site-about"/>
     <meta itemprop="name" content="Dieter Pfoser" id="site-about"/>
@@ -87,7 +87,7 @@ fa-bars
     <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="row">
       <div class="column small-12 medium 8 medium-offset-4 large-10 large-offset-2">
-        <h1 itemprop="name headline">Writing content with Markdown, LaTeX, and Shortcodes</h1>
+        <h1 itemprop="name headline">Amazon Scholar</h1>
         <div class="post-metadata">
           <span class="post-date"><meta itemprop="author" content="Dieter Pfoser"/>
 </span>
@@ -96,123 +96,24 @@ fa-bars
     </div>
     <div class="row">
       <div class="column small-12 medium-4 large-2">
-        <div class="post-dateblock"><time datetime="2021-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">1 January 2021</time>
-<span class="post-tags"></div>
+        <div class="post-dateblock"><time datetime="2021-12-02 00:00:00 &#43;0000 UTC" itemprop="datePublished">2 December 2021</time>
+<span class="post-tags"><div><span>
+    <span class="post-tags"><i class="
+fas
+fa-tags
+"></i><a class="post-tag" href="https://www.dieter.pfoser.org/tags/job">job</a>
+    </span></div></div>
       </div>
       <div class="show-for-small-only column small-12"><hr/></div>
       <div class="column small-12 medium-8 large-10">
-        <div class="post-body" itemprop="articleBody"><p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting.</p>
-<h2 id="sub-headings">Sub-headings</h2>
-<pre><code>## H2
-### H3
-#### H4
-##### H5
-###### H6
-</code></pre>
-<h2 id="emphasis">Emphasis</h2>
-<pre><code>Italics with *asterisks* or _underscores_.
-
-Bold with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough with ~~two tildes~~.
-</code></pre>
-<h2 id="ordered-lists">Ordered lists</h2>
-<pre><code>1. First item
-2. Another item
-</code></pre>
-<h2 id="unordered-lists">Unordered lists</h2>
-<pre><code>* First item
-* Another item
-</code></pre>
-<h2 id="images">Images</h2>
-<p>Images may be added to a page by placing them in your <code>static/img/</code> folder and referencing them using one of the following two notations:</p>
-<p>A general image:</p>
-<pre><code>![alternative text for search engines](/img/screenshot.png)
-</code></pre>
-<p>A numbered figure with caption:</p>
-<pre><code>{{&lt; figure src=&quot;/img/screenshot.png&quot; title=&quot;Figure Caption&quot; &gt;}}
-</code></pre>
-<h2 id="links">Links</h2>
-<pre><code>[I'm a link](https://www.google.com)
-[A post]({{&lt; ref &quot;post/hi.md&quot; &gt;}})
-[A publication]({{&lt; ref &quot;publication/hi.md&quot; &gt;}})
-[A project]({{&lt; ref &quot;project/hi.md&quot; &gt;}})
-[Another section]({{&lt; relref &quot;hi.md#who&quot; &gt;}})
-</code></pre>
-<h2 id="blockquote">Blockquote</h2>
-<pre><code>&gt; This is a blockquote.
-</code></pre>
-<blockquote>
-<p>This is a blockquote.</p>
-</blockquote>
-<h2 id="code-highlighting">Code highlighting</h2>
-<p>Pass the <em>language</em> of the code, such as <code>python</code>, as a parameter after three backticks:</p>
-<pre><code>```python
-# Example of code highlighting
-input_string_var = input(&quot;Enter some data: &quot;)
-print(&quot;You entered: {}&quot;.format(input_string_var))
-```
-</code></pre>
-<p>Result:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Example of code highlighting</span>
-<span class="n">input_string_var</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Enter some data: &#34;</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">&#34;You entered: </span><span class="si">{}</span><span class="s2">&#34;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">input_string_var</span><span class="p">))</span>
-</code></pre></div><h2 id="twitter-tweet">Twitter tweet</h2>
-<p>To include a single tweet, pass the tweet’s ID from the tweet&rsquo;s URL as parameter to the shortcode:</p>
-<pre><code>{{&lt; tweet 666616452582129664 &gt;}}
-</code></pre>
-<h2 id="youtube">Youtube</h2>
-<pre><code>{{&lt; youtube w7Ft2ymGmfc &gt;}}
-</code></pre>
-<h2 id="vimeo">Vimeo</h2>
-<pre><code>{{&lt; vimeo 146022717 &gt;}}
-</code></pre>
-<h2 id="github-gist">GitHub gist</h2>
-<pre><code>{{&lt; gist USERNAME GIST-ID  &gt;}}
-</code></pre>
-<h2 id="speaker-deck">Speaker Deck</h2>
-<pre><code>{{&lt; speakerdeck 4e8126e72d853c0060001f97 &gt;}}
-</code></pre>
-<h2 id="rm-latex-math">$\rm \LaTeX$ math</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-TeX" data-lang="TeX"><span class="sb">$$</span><span class="nv">\left</span><span class="nb"> </span><span class="o">[</span><span class="nb"> – </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\hbar</span><span class="nb">^</span><span class="m">2</span><span class="nb">}{</span><span class="m">2</span><span class="nb"> m} </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">^</span><span class="m">2</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> x^</span><span class="m">2</span><span class="nb">} </span><span class="o">+</span><span class="nb"> V </span><span class="nv">\right</span><span class="nb"> </span><span class="o">]</span><span class="nb"> </span><span class="nv">\Psi</span><span class="nb"> </span><span class="o">=</span><span class="nb"> i </span><span class="nv">\hbar</span><span class="nb"> </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> t} </span><span class="nv">\Psi</span><span class="s">$$</span>
-</code></pre></div><p>$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$</p>
-<p>Alternatively, inline math can be written by wrapping the formula with only a single <code>$</code>:</p>
-<pre><code>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$
-</code></pre>
-<p>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$</p>
-<h2 id="table">Table</h2>
-<p>Code:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Markdown" data-lang="Markdown">| Command           | Description                    |
-| ------------------| ------------------------------ |
-| <span class="sb">`hugo`</span>            | Build your website.            |
-| <span class="sb">`hugo serve -w`</span>   | View your website.             |
-</code></pre></div><p>Result:</p>
-<table>
-<thead>
-<tr>
-<th>Command</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>hugo</code></td>
-<td>Build your website.</td>
-</tr>
-<tr>
-<td><code>hugo serve -w</code></td>
-<td>View your website.</td>
-</tr>
-</tbody>
-</table>
+        <div class="post-body" itemprop="articleBody"><p>Looking forward to working with the <a href="https://www.amazon.jobs/en/teams/last-mile">Amazon Last Mile team</a> as an <a href="https://www.amazon.science/scholars">Amazon Scholar</a> on interesting ML problems in the geospatial domain!</p>
+<p><img src="../../../../../img/amazon-science-logo.svg" alt="Example image"></p>
 
         </div>
       </div>
-      <meta itemprop="wordCount" content="339">
-      <meta itemprop="datePublished" content="2021-01-01">
-      <meta itemprop="url" content="https://www.dieter.pfoser.org/post/2021/01/01/writing-content-with-markdown-latex-and-shortcodes/">
+      <meta itemprop="wordCount" content="22">
+      <meta itemprop="datePublished" content="2021-12-02">
+      <meta itemprop="url" content="https://www.dieter.pfoser.org/post/2021/12/02/amazon-scholar/">
     </div>
     </article>
     <div class="row">
@@ -220,8 +121,8 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
         <hr/>
         <ul class="pagination" role="navigation" aria-label="Pagination">
           
+          <li class="arrow" aria-disabled="true"><a href="https://www.dieter.pfoser.org/post/2021/01/01/writing-content-with-markdown-latex-and-shortcodes/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Writing content with Markdown, LaTeX, and Shortcodes</a></li>
           
-          <li class="arrow" aria-disabled="true"><a href="https://www.dieter.pfoser.org/post/2021/12/02/amazon-scholar/"><em>Next<span class="show-for-sr"> page</span></em>: Amazon Scholar&nbsp;&raquo;</a></li>
           
         </ul>
       </div>
