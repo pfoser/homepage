@@ -6,13 +6,13 @@
     <description>Recent content in Posts on Dieter Pfoser</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 10:00:00 +0000</lastBuildDate><atom:link href="https://www.dieter.pfoser.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dieter.pfoser.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://www.dieter.pfoser.org/post/2016/04/20/writing-content-with-markdown-latex-and-shortcodes/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      <link>https://www.dieter.pfoser.org/post/2021/01/01/writing-content-with-markdown-latex-and-shortcodes/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.dieter.pfoser.org/post/2016/04/20/writing-content-with-markdown-latex-and-shortcodes/</guid>
+      <guid>https://www.dieter.pfoser.org/post/2021/01/01/writing-content-with-markdown-latex-and-shortcodes/</guid>
       <description>Content can be written using Markdown, LaTeX math, and Hugo Shortcodes. Additionally, HTML may be used for advanced formatting.
 Sub-headings ## H2 ### H3 #### H4 ##### H5 ###### H6  Emphasis Italics with *asterisks* or _underscores_. Bold with **asterisks** or __underscores__. Combined emphasis with **asterisks and _underscores_**. Strikethrough with ~~two tildes~~.  Ordered lists 1. First item 2. Another item  Unordered lists * First item * Another item  Images Images may be added to a page by placing them in your static/img/ folder and referencing them using one of the following two notations:</description>
     </item>
