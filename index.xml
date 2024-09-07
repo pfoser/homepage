@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.dieter.pfoser.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sudan Conflict Observatory</title>
+      <link>https://www.dieter.pfoser.org/projects/state_24-24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/projects/state_24-24/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Function and form of US cities</title>
       <link>https://www.dieter.pfoser.org/publications/reia2024function/</link>
@@ -45,7 +52,7 @@
       <description></description>
     </item>
     <item>
-      <title>“METROPOL - Modeling and Encoding TRajectories Of Patterns Of Life</title>
+      <title>METROPOL - Modeling and Encoding TRajectories Of Patterns Of Life</title>
       <link>https://www.dieter.pfoser.org/projects/iarpa_23-27/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://www.dieter.pfoser.org/projects/iarpa_23-27/</guid>
@@ -123,9 +130,9 @@
     </item>
     <item>
       <title>NSF: Data-Driven Modeling to Improve Understanding of Human Behavior, Mobility, and Disease Spread</title>
-      <link>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid-copy/</link>
+      <link>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid-copy/</guid>
+      <guid>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid/</guid>
       <description>&lt;p&gt;Summary: The goal of this project is to investigate how including spatiotemporal heterogeneity of human behavior and mobility in ABMs of disease spread will 1) better explain variations of human response to disease spread, 2) improve predictions of infectious disease spread, and 3) prescribe the most effective mitigation policies.&lt;/p&gt;</description>
     </item>
     <item>
@@ -1179,6 +1186,13 @@
       <description></description>
     </item>
     <item>
+      <title>Jonathan Mbuya</title>
+      <link>https://www.dieter.pfoser.org/team/jonathan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/team/jonathan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Joon-Seok Kim</title>
       <link>https://www.dieter.pfoser.org/team/joon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1190,6 +1204,13 @@
       <link>https://www.dieter.pfoser.org/team/kejin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.dieter.pfoser.org/team/kejin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kourosh Baghaei</title>
+      <link>https://www.dieter.pfoser.org/team/kourosh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/team/kourosh/</guid>
       <description></description>
     </item>
     <item>
@@ -1211,6 +1232,13 @@
       <link>https://www.dieter.pfoser.org/team/olga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.dieter.pfoser.org/team/olga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prabin Bhandari</title>
+      <link>https://www.dieter.pfoser.org/team/prabin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/team/prabin/</guid>
       <description></description>
     </item>
     <item>
