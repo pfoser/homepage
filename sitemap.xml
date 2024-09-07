@@ -2,22 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.dieter.pfoser.org/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/reia2024function/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/zufle2024silico/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/bhandari2024urban/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/projects/iarpa_23-27/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/projects/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/bhandari2023llm/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/kumari2023highered/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/zufle2023geoai/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/haumann2023improving/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/amiri2023massive/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/min2023partitionbridge/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/mbuya2024outlier/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/zufle2023urban/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/bhandari2024llm/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/zhang2022factorized/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/atwal2022predicting/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.dieter.pfoser.org/post/2021/12/02/amazon-scholar/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.dieter.pfoser.org/</loc>
+    <loc>https://www.dieter.pfoser.org/categories/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/tags/job/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/categories/personal/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/post/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/tags/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid-copy/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/projects/nsf_21-24_spatial_language/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.dieter.pfoser.org/projects/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/projects/iarpa_21-22/</loc>
@@ -29,7 +89,13 @@
     <loc>https://www.dieter.pfoser.org/teaching/urban_analytics/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/min2021hierarchical/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.dieter.pfoser.org/publications/zhang2021disentangled/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/publications/fei2021influence/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/publications/zuefle2021mining/</loc>
@@ -38,10 +104,10 @@
     <loc>https://www.dieter.pfoser.org/publications/lyu2021movement/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.dieter.pfoser.org/publications/</loc>
+    <loc>https://www.dieter.pfoser.org/publications/zhang2021tg/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.dieter.pfoser.org/publications/zhang2021tg/</loc>
+    <loc>https://www.dieter.pfoser.org/publications/zufle2021urban/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.dieter.pfoser.org/post/2021/01/01/writing-content-with-markdown-latex-and-shortcodes/</loc>
@@ -448,32 +514,36 @@
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/bryan/</loc>
   </url><url>
-    <loc>https://www.dieter.pfoser.org/team/dan/</loc>
+    <loc>https://www.dieter.pfoser.org/team/chao/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/pfoser/</loc>
-  </url><url>
-    <loc>https://www.dieter.pfoser.org/team/charlie/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/haiyang/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/hamdi/</loc>
   </url><url>
+    <loc>https://www.dieter.pfoser.org/team/henrique/</loc>
+  </url><url>
     <loc>https://www.dieter.pfoser.org/team/joon/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/kejin/</loc>
   </url><url>
-    <loc>https://www.dieter.pfoser.org/team/liming/</loc>
+    <loc>https://www.dieter.pfoser.org/team/atwal/</loc>
   </url><url>
-    <loc>https://www.dieter.pfoser.org/team/mengei/</loc>
+    <loc>https://www.dieter.pfoser.org/team/liming/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/olga/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/profile/</loc>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/team/sandro/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/shiyang/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/</loc>
   </url><url>
     <loc>https://www.dieter.pfoser.org/team/min/</loc>
+  </url><url>
+    <loc>https://www.dieter.pfoser.org/team/zheng/</loc>
   </url>
 </urlset>

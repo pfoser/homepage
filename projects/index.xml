@@ -4,188 +4,157 @@
     <title>Projects on Dieter Pfoser</title>
     <link>https://www.dieter.pfoser.org/projects/</link>
     <description>Recent content in Projects on Dieter Pfoser</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dieter.pfoser.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.dieter.pfoser.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“METROPOL - Modeling and Encoding TRajectories Of Patterns Of Life</title>
+      <link>https://www.dieter.pfoser.org/projects/iarpa_23-27/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/projects/iarpa_23-27/</guid>
+      <description>&lt;p&gt;Large scale urban simulations and mobility mining.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NSF: Data-Driven Modeling to Improve Understanding of Human Behavior, Mobility, and Disease Spread</title>
       <link>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid-copy/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/nsf_21-26_eeid-copy/</guid>
       <description>&lt;p&gt;Summary: The goal of this project is to investigate how including spatiotemporal heterogeneity of human behavior and mobility in ABMs of disease spread will 1) better explain variations of human response to disease spread, 2) improve predictions of infectious disease spread, and 3) prescribe the most effective mitigation policies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>NSF: III: Small: From Spatial Language to Spatial Data - a simulation-based approach</title>
       <link>https://www.dieter.pfoser.org/projects/nsf_21-24_spatial_language/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/nsf_21-24_spatial_language/</guid>
       <description>&lt;p&gt;Summary: Devising means to better understand people&amp;rsquo;s perception of space by deciphering such spatial language terms. This includes (i) developing a simulation to crowdsource geospatial language expression data by having users interact in a virtual environment and (ii) exploring neural language modeling approaches for the problem of grounding language to this spatial context.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Distributed Semi-Supervised Temporal Learning for Global Change Monitoring (DiSSTL)</title>
       <link>https://www.dieter.pfoser.org/projects/iarpa_21-22/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/iarpa_21-22/</guid>
       <description>&lt;p&gt;IARPA’s Space-based Machine Automated Recognition Technique (SMART) Program strives to automate the quantitative analysis of space-based imagery to perform broad-area search for natural and anthropogenic events and characterize their extent and progression in time and space by fusing very large data from multiple satellite sensors.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Guaranteeing the Where – Towards Authoritative Cryptographic Geospatial Computing</title>
       <link>https://www.dieter.pfoser.org/projects/gmu_19-21_crypto/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/gmu_19-21_crypto/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A ground‐truth simulator for socio‐spatial alternate worlds</title>
       <link>https://www.dieter.pfoser.org/projects/darpa_18-20/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/darpa_18-20/</guid>
       <description>&lt;p&gt;Summary: Test and evaluating different methods and tools for analyzing complex social phenomena.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>DIVES: Discovering Indicators for Interactions in Finance and Government Sector</title>
       <link>https://www.dieter.pfoser.org/projects/gmu_17-18_dives/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/gmu_17-18_dives/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NSF/AITF: Collaborative Research: Modeling Movement on Transportation Networks Using Uncertain Data</title>
       <link>https://www.dieter.pfoser.org/projects/nsf_16-22_mobility/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/nsf_16-22_mobility/</guid>
       <description>&lt;p&gt;Summary: Creation a unified framework for aggregating and analyzing diverse and uncertain movement data on transportation networks and to provide tools for querying and predicting traffic volume and movement in urban environments.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Health Narratives: A Multidisciplinary Approach to Understanding Health-Related Information Generation and Dissemination in Social Media</title>
       <link>https://www.dieter.pfoser.org/projects/gmu_15-16_health/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/gmu_15-16_health/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web Mapping Platform Visualizing Risk Assessment</title>
       <link>https://www.dieter.pfoser.org/projects/dhs_15/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/dhs_15/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Generation and Management of Crowdsourced Place Gazetteers</title>
       <link>https://www.dieter.pfoser.org/projects/nga_2015-22/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/nga_2015-22/</guid>
       <description>&lt;p&gt;Summary: Traditional gazetteers and maps are artifacts of a geometry-driven view of the world, communicating primarily locations and their coordinates. Human activities may assign multiple meanings to the same geographic location. The activities associated with a space transform it to a sociocultural place, by assigning to it meaning, scope, and function, that far exceed its geometric coordinates. Understanding and mapping places is a key geospatial research challenge, as we are transitioning from mapping the surface of the world to monitoring and assessing geo-located activities.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GEOSTREAM - Exploiting User-Generated Geospatial Content Streams</title>
       <link>https://www.dieter.pfoser.org/projects/eu_13-15_geocrowd/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_13-15_geocrowd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIMPLEFLEET - Description: Democratizing Fleet Management Solutions</title>
       <link>https://www.dieter.pfoser.org/projects/eu_12-14_simplefleet/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_12-14_simplefleet/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TMGuide - TALOS Mobile Guides</title>
       <link>https://www.dieter.pfoser.org/projects/eu_12-14_tmguide/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_12-14_tmguide/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GECROWD - Creating a geospatial knowledge world.  </title>
       <link>https://www.dieter.pfoser.org/projects/eu_10-14_geocrowd/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_10-14_geocrowd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TALOS - Task aware location-based services for mobile environments.  </title>
       <link>https://www.dieter.pfoser.org/projects/eu_08-10_talos/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_08-10_talos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CITER - Creation of a European History Textbook Repository.</title>
       <link>https://www.dieter.pfoser.org/projects/eu_06-09_citer/</link>
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_06-09_citer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TRACK&amp;TRADE - Building a data mart for floating car data.</title>
       <link>https://www.dieter.pfoser.org/projects/eu_06-08_tt/</link>
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_06-08_tt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ARCHAIORAMA - Development of a GIS system for archaeological excavation documentation.</title>
       <link>https://www.dieter.pfoser.org/projects/eu_04-05_arch/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_04-05_arch/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DBGLOBE - A Data - centric Approach to Global Computing.</title>
       <link>https://www.dieter.pfoser.org/projects/eu_02-06_dbglobe/</link>
       <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_02-06_dbglobe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PATHFINDER - Development of data management and data mining techniques for floating car data (FCD).</title>
       <link>https://www.dieter.pfoser.org/projects/eu_02-04_ichn/</link>
       <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/projects/eu_02-04_ichn/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

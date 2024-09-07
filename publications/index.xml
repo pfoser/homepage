@@ -4,1061 +4,948 @@
     <title>Publications on Dieter Pfoser</title>
     <link>https://www.dieter.pfoser.org/publications/</link>
     <description>Recent content in Publications on Dieter Pfoser</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dieter.pfoser.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.dieter.pfoser.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Function and form of US cities</title>
+      <link>https://www.dieter.pfoser.org/publications/reia2024function/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/reia2024function/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In silico human mobility data science: Leveraging massive simulated mobility data (vision paper)</title>
+      <link>https://www.dieter.pfoser.org/publications/zufle2024silico/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/zufle2024silico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urban mobility assessment using LLMs</title>
+      <link>https://www.dieter.pfoser.org/publications/bhandari2024urban/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/bhandari2024urban/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Are large language models geospatially knowledgeable?</title>
+      <link>https://www.dieter.pfoser.org/publications/bhandari2023llm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/bhandari2023llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automated framework for evaluating sustainability and resilience in higher education curriculum</title>
+      <link>https://www.dieter.pfoser.org/publications/kumari2023highered/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/kumari2023highered/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GeoAI for public health</title>
+      <link>https://www.dieter.pfoser.org/publications/zufle2023geoai/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/zufle2023geoai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving mobile positioning accuracy within an image-based hybrid geocrowdsourcing system</title>
+      <link>https://www.dieter.pfoser.org/publications/haumann2023improving/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/haumann2023improving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Massive trajectory data based on patterns of life</title>
+      <link>https://www.dieter.pfoser.org/publications/amiri2023massive/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/amiri2023massive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The partition bridge (PB) tree: Efficient nearest neighbor query processing on road networks</title>
+      <link>https://www.dieter.pfoser.org/publications/min2023partitionbridge/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/min2023partitionbridge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trajectory anomaly detection with language models</title>
+      <link>https://www.dieter.pfoser.org/publications/mbuya2024outlier/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/mbuya2024outlier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urban life: A model of people and places</title>
+      <link>https://www.dieter.pfoser.org/publications/zufle2023urban/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/zufle2023urban/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urban mobility assessment using LLMs</title>
+      <link>https://www.dieter.pfoser.org/publications/bhandari2024llm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/bhandari2024llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Factorized deep generative models for end-to-end trajectory generation with spatiotemporal validity constraints</title>
+      <link>https://www.dieter.pfoser.org/publications/zhang2022factorized/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/zhang2022factorized/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predicting building types using OpenStreetMap</title>
+      <link>https://www.dieter.pfoser.org/publications/atwal2022predicting/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/atwal2022predicting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A hierarchical spatial network index for arbitrarily distributed spatial objects</title>
+      <link>https://www.dieter.pfoser.org/publications/min2021hierarchical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/min2021hierarchical/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Disentangled dynamic graph deep generation</title>
       <link>https://www.dieter.pfoser.org/publications/zhang2021disentangled/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/zhang2021disentangled/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Influence of geographic distance on CNN generalization for satellite image classification</title>
+      <link>https://www.dieter.pfoser.org/publications/fei2021influence/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/fei2021influence/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mining high resolution earth observation data cubes</title>
       <link>https://www.dieter.pfoser.org/publications/zuefle2021mining/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/zuefle2021mining/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Movement-aware map construction</title>
       <link>https://www.dieter.pfoser.org/publications/lyu2021movement/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/lyu2021movement/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>TG-gan: Continuous-time temporal graph deep generative models with time-validity constraints</title>
+      <title>TG-GAN: Continuous-time temporal graph deep generative models with time-validity constraints</title>
       <link>https://www.dieter.pfoser.org/publications/zhang2021tg/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/zhang2021tg/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Urban life: A model of people and places</title>
+      <link>https://www.dieter.pfoser.org/publications/zufle2021urban/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/publications/zufle2021urban/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Location-based social network data generation based on patterns of life</title>
       <link>https://www.dieter.pfoser.org/publications/kim2020pol/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kim2020pol/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Location-based social simulation for prescriptive analytics of disease spread</title>
       <link>https://www.dieter.pfoser.org/publications/kim2020location/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kim2020location/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Managing uncertainty in evolving geo-spatial data</title>
       <link>https://www.dieter.pfoser.org/publications/zufle2020managing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/zufle2020managing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Station-to-user transfer learning: Towards explainable user clustering through latent trip signatures using tidal-regularized non-negative matrix factorization</title>
       <link>https://www.dieter.pfoser.org/publications/zhang2020station/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/zhang2020station/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Taking the pulse of covid-19: A spatiotemporal perspective</title>
+      <title>Taking the pulse of COVID-19: A spatiotemporal perspective</title>
       <link>https://www.dieter.pfoser.org/publications/yang2020taking/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/yang2020taking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Traffic flow estimation using probe vehicle data</title>
       <link>https://www.dieter.pfoser.org/publications/gkountouna2020traffic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/gkountouna2020traffic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vehicle relocation for ride-hailing</title>
       <link>https://www.dieter.pfoser.org/publications/kim2020vehicle/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kim2020vehicle/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A vocabulary recommendation method for spatiotemporal data discovery based on bayesian network and ontologies</title>
       <link>https://www.dieter.pfoser.org/publications/kejin2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kejin2019/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>CrowdZIP: A system to improve reverse zip code geocoding using spatial and crowdsourced data (demo paper)</title>
+      <title>CrowdZIP: A system to improve reverse ZIP code geocoding using spatial and crowdsourced data (demo paper)</title>
       <link>https://www.dieter.pfoser.org/publications/khan2019crowdzip/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/khan2019crowdzip/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Distance-aware competitive spatiotemporal searching using spatiotemporal resource matrix factorization (gis cup)</title>
+      <title>Distance-aware competitive spatiotemporal searching using spatiotemporal resource matrix factorization (GIS cup)</title>
       <link>https://www.dieter.pfoser.org/publications/kim2019distance/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kim2019distance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Investigation design: The structural elements of knowledge-seeking efforts</title>
       <link>https://www.dieter.pfoser.org/publications/weaver2019investigation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/weaver2019investigation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Location-based social simulation</title>
       <link>https://www.dieter.pfoser.org/publications/kavak2019location/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kavak2019location/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Shortest-path diversification through network penalization: A washington dc area case study</title>
+      <title>Shortest-path diversification through network penalization: A washington DC area case study</title>
       <link>https://www.dieter.pfoser.org/publications/cheng2019shortest/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/cheng2019shortest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simulating urban patterns of life: A geo-social data generation framework</title>
       <link>https://www.dieter.pfoser.org/publications/kim2019simulating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/kim2019simulating/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spatiotemporal bus route profiling using odometer data</title>
       <link>https://www.dieter.pfoser.org/publications/fei2019spatiotemporal/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/fei2019spatiotemporal/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Using openstreetmap point-of-interest data to model urban change—a feasibility study</title>
+      <title>Using OpenStreetMap point-of-interest data to model urban change---a feasibility study</title>
       <link>https://www.dieter.pfoser.org/publications/liming2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/liming2019/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cancer and social media: A comparison of traffic about breast cancer, prostate cancer, and other reproductive cancers on twitter and instagram</title>
       <link>https://www.dieter.pfoser.org/publications/vraga2018cancer/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/vraga2018cancer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quality assessment and accessibility mapping in an image-based geocrowdsourcing testbed</title>
       <link>https://www.dieter.pfoser.org/publications/rice2018quality/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/rice2018quality/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spatio-textual user matching and clustering based on set similarity joins</title>
       <link>https://www.dieter.pfoser.org/publications/belesiotis2018spatio/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/belesiotis2018spatio/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Spatiotemporal traffic volume estimation model based on gps samples</title>
+      <title>Spatiotemporal traffic volume estimation model based on GPS samples</title>
       <link>https://www.dieter.pfoser.org/publications/snowdon2018spatiotemporal/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/snowdon2018spatiotemporal/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Towards a better understanding of public transportation traffic: A case study of the washington, dc metro</title>
+      <title>Towards a better understanding of public transportation traffic: A case study of the washington, DC metro</title>
       <link>https://www.dieter.pfoser.org/publications/truong2018urban/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/truong2018urban/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A layered approach for more robust generation of road network maps from vehicle tracking data</title>
       <link>https://www.dieter.pfoser.org/publications/karagiorgou2017layered/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/karagiorgou2017layered/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A unified framework to predict movement</title>
       <link>https://www.dieter.pfoser.org/publications/gkountouna2017unified/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/gkountouna2017unified/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crowdsourcing turning-restrictions from map-matched trajectories</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis2017crowdsourcing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis2017crowdsourcing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Handling uncertainty in geo-spatial data</title>
       <link>https://www.dieter.pfoser.org/publications/zufle2017handling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/zufle2017handling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Hub labels on the database for large-scale graphs with the cold framework</title>
+      <title>Hub labels on the database for large-scale graphs with the COLD framework</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis2017hub/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis2017hub/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Knowledge extraction from crowdsourced data for the enrichment of road networks</title>
       <link>https://www.dieter.pfoser.org/publications/josse2017skoumas/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/josse2017skoumas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Predicting the evolution of narratives in social media</title>
       <link>https://www.dieter.pfoser.org/publications/schmid2017predicting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/schmid2017predicting/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Social media engagement with cancer awareness campaigns declined during the 2016 us presidential election</title>
+      <title>Social media engagement with cancer awareness campaigns declined during the 2016 US presidential election</title>
       <link>https://www.dieter.pfoser.org/publications/vraga2017social/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/vraga2017social/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Zika in twitter: Temporal variations of locations, actors, and concepts</title>
       <link>https://www.dieter.pfoser.org/publications/stefanidis2017zika/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/stefanidis2017zika/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crowdsourcing geographic information.</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_eodb2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_eodb2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crowdsourcing turning-restrictions from map-matched trajectories</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis_mud_is2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis_mud_is2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Efficient processing of relevant nearest-neighbor queries</title>
       <link>https://www.dieter.pfoser.org/publications/efstathiades_tsas2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efstathiades_tsas2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geo-fingerprinting social media content</title>
       <link>https://www.dieter.pfoser.org/publications/gazaz16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/gazaz16/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Location estimation using crowdsourced spatial relations</title>
       <link>https://www.dieter.pfoser.org/publications/skoumas_tsas2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/skoumas_tsas2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ReHub: Extending hub labels for reverse k-nearest neighbor queries on large-scale networks</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis2016rehub/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis2016rehub/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Similarity search on spatio-textual point sets</title>
       <link>https://www.dieter.pfoser.org/publications/efstathiades16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efstathiades16/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A comparison and evaluation of map construction algorithms using vehicle tracking data</title>
       <link>https://www.dieter.pfoser.org/publications/ahmad2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/ahmad2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>COLD. Revisiting hub labels on the database for large-scale graphs</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis2015b/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis2015b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crowdsourcing urban form and function</title>
       <link>https://www.dieter.pfoser.org/publications/crooks2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/crooks2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Knowledge-enriched route computation</title>
       <link>https://www.dieter.pfoser.org/publications/skoumas2015a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/skoumas2015a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Map construction algorithms</title>
       <link>https://www.dieter.pfoser.org/publications/mcbook2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/mcbook2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ReHub. Extending hub labels for reverse k-nearest neighbor queries on large-scale networks</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis_rehub_jea2016/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis_rehub_jea2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SALT. A unified framework for all shortest-path query variants on road networks</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spatiotemporal behavior profiling: A treasure hunt case study</title>
       <link>https://www.dieter.pfoser.org/publications/degraff2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/degraff2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tourismo: A user-preference tourist trip search engine</title>
       <link>https://www.dieter.pfoser.org/publications/skoumas2015b/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/skoumas2015b/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Crowdsourcing turning restrictions for openstreetmap</title>
+      <title>Crowdsourcing turning restrictions for OpenStreetMap</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis14a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis14a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Extraction, integration and analysis of crowdsourced points of interest from multiple web sources</title>
       <link>https://www.dieter.pfoser.org/publications/lampr2014a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/lampr2014a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Extraction, integration and exploration of crowdsourced geospatial content from multiple web sources (demo)</title>
       <link>https://www.dieter.pfoser.org/publications/lampr2014b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/lampr2014b/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>GEOCROWD 2013 workshop report: The second int’l workshop on crowdsourced and volunteered geographic information 2013: (Orlando, fl - nov. 5, 2013)</title>
+      <title>GEOCROWD 2013 workshop report: The second int&#39;l workshop on crowdsourced and volunteered geographic information 2013: (Orlando, FL - nov. 5, 2013)</title>
       <link>https://www.dieter.pfoser.org/publications/geocrowd_report2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/geocrowd_report2014/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geosemantic network-of-interest construction using social media data</title>
       <link>https://www.dieter.pfoser.org/publications/karagior14a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/karagior14a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GRASP. Extending graph separators for the single-source shortest-path problem</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis14b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis14b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proceedings of the 13th international symposium on web and wireless geographical information systems</title>
       <link>https://www.dieter.pfoser.org/publications/w2gis2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/w2gis2014/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Towards knowledge-enriched path computation</title>
       <link>https://www.dieter.pfoser.org/publications/skoumas2014a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/skoumas2014a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Guest editorial: Spatial and temporal databases</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_2013/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Isochrones, traffic and demographics</title>
+      <title>Isochrones, traffic and DEMOgraphics</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis13a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis13a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On quantifying qualitative geospatial data: A probabilistic approach</title>
       <link>https://www.dieter.pfoser.org/publications/skoumas2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/skoumas2013/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Optimizing landmark-based routing and preprocessing</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis13c/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis13c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Segmentation-based road network construction</title>
       <link>https://www.dieter.pfoser.org/publications/karagiorgou13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/karagiorgou13/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Towards a flexible and scalable fleet management service</title>
       <link>https://www.dieter.pfoser.org/publications/efentakis13b/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efentakis13b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>User-contributed relevance and nearest neighbor queries</title>
       <link>https://www.dieter.pfoser.org/publications/efstathiades13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/efstathiades13/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Collaborative geospatial feature search</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_2012a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_2012a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crowdsourcing computing resources for shortest-path computation</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_2012c/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_2012c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On vehicle tracking data-based road network generation</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_2012b/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_2012b/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Proceedings of the first acm sigspatial international workshop on crowdsourced and volunteered geographic information (geocrowd)</title>
+      <title>Proceedings of the first ACM SIGSPATIAL international workshop on crowdsourced and volunteered geographic information (GEOCROWD)</title>
       <link>https://www.dieter.pfoser.org/publications/goodchild_2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/goodchild_2012/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>12th international symposium on advances in spatial and temporal databases</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_sstdproc11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_sstdproc11/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Efficient data management in support of shortest-path computation</title>
       <link>https://www.dieter.pfoser.org/publications/aef11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/aef11/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jeocrowd: Collaborative searching of user-generated point datasets</title>
       <link>https://www.dieter.pfoser.org/publications/glamp11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/glamp11/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mobile task computing: Beyond location-based services and ebooks</title>
       <link>https://www.dieter.pfoser.org/publications/liagouris_tasks11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/liagouris_tasks11/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On user-generated geocontent</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_vision11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_vision11/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Opinion mapping travelblogs</title>
       <link>https://www.dieter.pfoser.org/publications/drymonas11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/drymonas11/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Collaborative information spaces: Research directions at imis</title>
+      <title>Collaborative information spaces: Research directions at IMIS</title>
       <link>https://www.dieter.pfoser.org/publications/imis10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/imis10/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geoblogging: User-contributed geospatial data collection and fusion</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_geoblogging10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_geoblogging10/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geospatial route extraction from texts</title>
       <link>https://www.dieter.pfoser.org/publications/drymonas10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/drymonas10/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Language-independent access to history textbooks: Utilizing gis functionality with spatiotemporal and thematic metadata</title>
+      <title>Language-independent access to history textbooks: Utilizing GIS functionality with spatiotemporal and thematic metadata</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_togis10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_togis10/</guid>
       <description>Integrating and accessing structured textual content obtain from different sources is a challenging task and becomes even more so when dealing with multiple languages. The objective of this work is to showcase the technological efforts towards the creation of a digital European history textbook repository that integrates respective textbooks from various countries and publishers. The content integration is achieved by introducing language independent metadata based on space (locations), time (dates), and thematic categories (history gazetteer).</description>
     </item>
-    
     <item>
       <title>A new perspective on efficient and dependable vehicle routing</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_routing09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_routing09/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Providing universal access to history textbooks: A modified gis case</title>
+      <title>Providing universal access to history textbooks: A modified GIS case</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_w2gis09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_w2gis09/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Utilizing wireless positioning as a tracking data source</title>
       <link>https://www.dieter.pfoser.org/publications/spiros09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/spiros09/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dynamic travel time maps</title>
       <link>https://www.dieter.pfoser.org/publications/dttm08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/dttm08/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dynamic travel time provision for road networks</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_tnt08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_tnt08/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Floating car data</title>
       <link>https://www.dieter.pfoser.org/publications/fcd08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/fcd08/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Map-matching</title>
       <link>https://www.dieter.pfoser.org/publications/mm08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/mm08/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Qualitative geocoding of persistent web pages</title>
       <link>https://www.dieter.pfoser.org/publications/angel08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/angel08/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spatial data management aspects in archaeological excavation documentation</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_arch07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_arch07/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Addressing the need for map-matching speed: Localizing globalb curve-matching algorithms</title>
       <link>https://www.dieter.pfoser.org/publications/wenk_mm06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/wenk_mm06/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dynamic travel time maps - enabling efficient navigation</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_dttm06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_dttm06/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to the special issue</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_geoinf06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_geoinf06/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data semantics in location-based services</title>
       <link>https://www.dieter.pfoser.org/publications/tryfona_semantics05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/tryfona_semantics05/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Indeterminacy and spatiotemporal data: Basic definitions and case study</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_indet05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_indet05/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>On map-matching vehicle tracking data</title>
       <link>https://www.dieter.pfoser.org/publications/brakatsoulas_vldb05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/brakatsoulas_vldb05/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Practical data management techniques for vehicle tracking data</title>
       <link>https://www.dieter.pfoser.org/publications/brakatsoulas_icde05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/brakatsoulas_icde05/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Trajectory indexing using movement constraints</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_constraints05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_constraints05/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>12th acm international workshop on geographic information systems</title>
+      <title>12th ACM international workshop on geographic information systems</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_gis04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_gis04/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Modeling, storing, and mining moving object databases</title>
       <link>https://www.dieter.pfoser.org/publications/brakatsoulas04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/brakatsoulas04/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Access methods and query processing techniques</title>
       <link>https://www.dieter.pfoser.org/publications/cc03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/cc03/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>DBGlobe: A service-oriented p2p system for global computing</title>
+      <title>DBGlobe: A service-oriented P2P system for global computing</title>
       <link>https://www.dieter.pfoser.org/publications/dbglobe03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/dbglobe03/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Generating semantics-based trajectories of moving objects</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_ceus03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_ceus03/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Indexing of network constrained moving objects</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_constraints03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_constraints03/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Services-based data management in a global computing environment</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_wisew03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_wisew03/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Synthetic and real spatiotemporal datasets</title>
       <link>https://www.dieter.pfoser.org/publications/nascimento_debull03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/nascimento_debull03/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Indexing the trajectories of moving objects</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_debull02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_debull02/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Metadata modeling in a global computing environment</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_metadata02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_metadata02/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Revisiting r-tree construction principles</title>
       <link>https://www.dieter.pfoser.org/publications/brakatsoulas_rtree02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/brakatsoulas_rtree02/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Capturing fuzziness and uncertainty of spatiotemporal objects</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_fuzziness01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_fuzziness01/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Designing ontologies for moving objects applications</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_onto01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_onto01/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Location-based services: A database perspective</title>
       <link>https://www.dieter.pfoser.org/publications/jensen_lbs01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/jensen_lbs01/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Querying the trajectories of on-line mobile objects</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_traj01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_traj01/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Novel approaches in query processing for moving object trajectories</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_tbtree00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_tbtree00/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Capturing the uncertainty of moving-object representations</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_ssd99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_ssd99/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Incremental join of time-oriented data</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_temporal99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_temporal99/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Requirements, definitions, and notations for spatiotemporal application environments</title>
       <link>https://www.dieter.pfoser.org/publications/pfoser_requirements98/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/pfoser_requirements98/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Modeling behavior of geographic objects: An experience with the object modeling technique</title>
       <link>https://www.dieter.pfoser.org/publications/tryfona_caise97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/tryfona_caise97/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Structuring space with image schemata: Wayfinding in airports as a case study</title>
       <link>https://www.dieter.pfoser.org/publications/raubal_cosit97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dieter.pfoser.org/publications/raubal_cosit97/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
