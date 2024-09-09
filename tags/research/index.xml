@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Dieter Pfoser</title>
+    <link>https://www.dieter.pfoser.org/tags/research/</link>
+    <description>Recent content in Research on Dieter Pfoser</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.dieter.pfoser.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two papers accepted at ACM SIGSPATIAL 2024 conference</title>
+      <link>https://www.dieter.pfoser.org/post/2024/09/01/two-papers-accepted-at-acm-sigspatial-2024-conference/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/post/2024/09/01/two-papers-accepted-at-acm-sigspatial-2024-conference/</guid>
+      <description>Our work on using Language Models for geospatial data has resulted in two papers on &amp;ldquo;Trajectory anomaly detection with language models&amp;rdquo; (J. Mbuya, A. Anastasopoulos, D. Pfoser) and on &amp;ldquo;Urban mobility assessment using LLMs&amp;rdquo; (P. Bhandari, A. Anastasopoulos, D. Pfoser) being accepted (full papers) to this year&amp;rsquo;s ACM SIGSPATIAL conference to take place in Atlanta, GA - Oct. 29 to Nov. 1!</description>
+    </item>
+  </channel>
+</rss>

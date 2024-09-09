@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 Dieter Pfoser</copyright>
-    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.dieter.pfoser.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://www.dieter.pfoser.org/tags/publications/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/tags/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://www.dieter.pfoser.org/tags/research/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.dieter.pfoser.org/tags/research/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Job</title>
       <link>https://www.dieter.pfoser.org/tags/job/</link>
